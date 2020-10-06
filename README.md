@@ -12,10 +12,11 @@
     
 ## How to run?
 Make sure you are in the same direactory as that of the project folder.
+Type in command prompt,
 ``` 
 set FLASK_APP=app.py
 ```
-then 
+After successful excution, type 
 ```
 flask run
 ```
