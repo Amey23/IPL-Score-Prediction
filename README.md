@@ -11,7 +11,7 @@
     pip install -r requirements.txt
     
 ## How to run?
-
+Make sure you are in the same direactory as that of the project folder.
 ``` 
 set FLASK_APP=app.py
 ```
