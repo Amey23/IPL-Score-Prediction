@@ -20,3 +20,4 @@ After successful excution, type
 ```
 flask run
 ```
+[Get Model Source here.](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/lr-model.pkl)
