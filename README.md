@@ -12,9 +12,10 @@
     
 ## How to run?
 
-``` set FLASK_APP=app.py
-
+``` 
+set FLASK_APP=app.py
+```
 then 
-
+```
 flask run
-
+```
